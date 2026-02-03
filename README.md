@@ -116,4 +116,4 @@ cd airpush
 
 -
 
-Stay tuned for updates! 🚀
+Stay tuned for updates! 
